@@ -1,12 +1,12 @@
-nav{
+.nav-bar{
 	background-color:#D3D3D3;
 	padding:10px;
 }
-ul{
+.nav-bar ul{
 	list-style:none;
 }
 
-li{
+.nav-bar li{
 	display:inline;
 	margin-right:1rem;
 }
