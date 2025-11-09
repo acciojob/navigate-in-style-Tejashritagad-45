@@ -1,14 +1,15 @@
-.nav-bar{
-	background-color:#D3D3D3;
-	padding:10px;
-}
-.nav-bar ul{
-	list-style:none;
-	margin:0;
-	padding:0;
+nav {
+  background-color: #D3D3D3;
+  padding: 10px;
 }
 
-.nav-bar li{
-	display:inline;
-	margin-right:1rem;
+nav ul {
+  list-style: none;  /* removes bullets */
+  padding: 0;
+  margin: 0;
+}
+
+nav li {
+  display: inline;   /* makes items appear horizontally */
+  margin-right: 1rem; /* spacing between items */
 }
